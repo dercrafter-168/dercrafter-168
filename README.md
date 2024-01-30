@@ -6,6 +6,5 @@ Owner von den @dercrafter-Networks & @LamaLinuxCraftServer 👑| Developerteamle
 - CSS
 - Javascript
 - Python
-- node.js & discord.js
 - Java
 - PHP
