@@ -1,9 +1,10 @@
-# Mike__Riddle
-Owner von den @dercrafter-Networks & @LamaLinuxCraftServer 👑| Developerteamleader von @WBDA-Network | 18 Jahre alt | Hobby Programmierer🖥 | Slytherin 💚 | Harry Potter fan | Youtuber und Twitch Streamer | Live near Stuttgart | 08/08/2022 ❤️ | ~S ❤️| Hab euch lieb SxMxMxL | Phasmogang👻KLM | Zauberer auf #LBAH | 
+# dercrafter_168
+Owner von den @dercrafter-Networks & @LamaLinuxCraftServer 👑| Manager & DEV von @WBDA-Network | 18 Jahre alt | Hobby Programmierer🖥 | Slytherin 💚 | Harry Potter fan | Live near Stuttgart | ~S 08/08/2022 ❤️ | Zauberer auf #LBAH | 
 
 ## My Skill:
-- HTML
-- CSS
-- Javascript
+- Webdevelopment
+    - HTML
+    - CSS
+    - JavaScript
 - Python
 - Java
