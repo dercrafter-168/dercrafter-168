@@ -17,6 +17,7 @@
            <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
            <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
            <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+           <img alt="Static Badge" src="https://img.shields.io/badge/cplusplus-005C84?style=for-the-badge&logo=cplusplus&color=blue">
            <img alt="Static Badge" src="https://img.shields.io/badge/python-005C84?style=for-the-badge&logo=python&color=black">
         </p>
     <h2>DataBases</h2>
