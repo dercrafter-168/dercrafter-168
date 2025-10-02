@@ -4,6 +4,9 @@
     Owner & Founder von den @dercrafter-Networks & @LamaLinuxCraftServer 👑| Manager @WBDA-Network | 18 Jahre alt | Hobby Programmierer🖥 | Slytherin 💚 | Harry Potter fan | Live near Stuttgart | Zauberer auf #LBAH | Dev & Admin von Roco Network
 </p>
 
+------
+[![wakatime](https://wakatime.com/badge/user/1b5acfeb-7d62-4d9b-8610-26fb210e7ec1.svg)](https://wakatime.com/@1b5acfeb-7d62-4d9b-8610-26fb210e7ec1)
+
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td>Coding & Programming</td>
