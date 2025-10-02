@@ -1,91 +1,85 @@
 <div align="center">
-<h1>dercrafter_168</h1>
-<p>
-    Owner & Founder von den @dercrafter-Networks & @LamaLinuxCraftServer 👑| Manager @WBDA-Network | 18 Jahre alt | Hobby Programmierer🖥 | Slytherin 💚 | Harry Potter fan | Live near Stuttgart | Zauberer auf #LBAH | Dev & Admin von Roco Network
-</p>
 
-------
-[![wakatime](https://wakatime.com/badge/user/1b5acfeb-7d62-4d9b-8610-26fb210e7ec1.svg)](https://wakatime.com/@1b5acfeb-7d62-4d9b-8610-26fb210e7ec1)
+# 🧙‍♂️ Welcome to dercrafter_168's Realm
+### aka Mike Mayer — Founder of DCN and builder of Systems & Magic
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td>Coding & Programming</td>
-    <td>Platforms:</td>
-  </tr>
-  <tr>
-    <td>
-        <h2>Languages</h2>
-        <p>
-           <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-           <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-           <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-           <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-           <img alt="Static Badge" src="https://img.shields.io/badge/cplusplus-005C84?style=for-the-badge&logo=cplusplus&color=blue">
-           <img alt="Static Badge" src="https://img.shields.io/badge/python-005C84?style=for-the-badge&logo=python&color=black">
-        </p>
-    <h2>DataBases</h2>
-    <p>
-       <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-       <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white">
-       <img alt="Static Badge" src="https://img.shields.io/badge/mariadb-005C84?style=for-the-badge&logo=mariadb&logoColor=%23003B57"> 
-    </p>
-    <h2>IDE's & Build Tools</h2>
-    <p>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/webstorm-f?style=for-the-badge&logo=webstorm&color=black">
-        <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/MBED.OS-f?style=for-the-badge&logo=stmicroelectronics&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/armkeil-f?style=for-the-badge&logo=armkeil&color=black">
-        <br>
-        <img alt="Static Badge" src="https://img.shields.io/badge/apachemaven-005C84?style=for-the-badge&logo=apachemaven&logoColor=%23C71A36&labelColor=black&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/gradle-005C84?style=for-the-badge&logo=gradle&logoColor=%2302303A&labelColor=black&color=black"> 
-        <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-f?style=for-the-badge&logo=kotlin&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/apache%20groovy-f?style=for-the-badge&logo=apachegroovy&color=black">
-    </p>  
-    <h2>Frameworks</h2>
-    <p>
-        <img alt="Static Badge" src="https://img.shields.io/badge/spigotmc-005C84?style=for-the-badge&logo=spigotmc&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/velocity-005C84?style=for-the-badge&logo=velocity&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/forge-005C84?style=for-the-badge&logo=condaforge&color=black">
-    </p>
-    <h2>Misc</h2>
-    <p>
-        <img alt="Static Badge" src="https://img.shields.io/badge/git-f?style=for-the-badge&logo=git&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/gitea-f?style=for-the-badge&logo=gitea&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/github-f?style=for-the-badge&logo=github&color=black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/uml-f?style=for-the-badge&logo=uml&color=black">
-    </p>
-</td>
-    <td>
-        <h2>Contact:</h2>
-        <p>
-            <img alt="Static Badge" src="https://img.shields.io/badge/teamspeak-f?style=for-the-badge&logo=teamspeak&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/discord-f?style=for-the-badge&logo=discord&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/threema-f?style=for-the-badge&logo=threema&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/telegram-f?style=for-the-badge&logo=telegram&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/signal-f?style=for-the-badge&logo=signal&color=black">
-        </p>
-        <h2>Social Media:</h2>
-        <p>
-            <img alt="Static Badge" src="https://img.shields.io/badge/twitter-f?style=for-the-badge&logo=x&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/threads-f?style=for-the-badge&logo=threads&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/instagram-f?style=for-the-badge&logo=instagram&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/twitch-f?style=for-the-badge&logo=twitch&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/youtube-f?style=for-the-badge&logo=youtube&labelColor=red&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/tiktok-f?style=for-the-badge&logo=tiktok&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/bereal-f?style=for-the-badge&logo=bereal&color=black">
-        </p>
-        <h2>OS & Hosting</h2>
-        <p>
-            <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-f?style=for-the-badge&logo=ubuntu&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/linux-f?style=for-the-badge&logo=linux&color=black">
-            <img alt="Static Badge" src="https://img.shields.io/badge/kalilinux-f?style=for-the-badge&logo=kalilinux&labelColor=black&color=blue">
-            <img alt="Static Badge" src="https://img.shields.io/badge/debian-f?style=for-the-badge&logo=debian&labelColor=%23A81D33&color=black">
-        </p>
-    </td>
-  </tr>
-</table>
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV1eXNwanBqM2M0NTlnNjR3MDlraHRhaGxuMngyamx2b3VqdXlzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRJHRz3Nu5waY/giphy.gif" width="200px">
 
 </div>
+
+---
+
+## 🧭 Who I Am
+
+Founder of **@dercrafter-Networks** and co-founder of **@LamaLinuxCraftServer**,
+I design and code smart and modern software — from Minecraft ecosystems (Java) to embedded systems (CPP with MbedOS6).  
+My passion lies in Minecraft and Magic, and I'm always looking for new projects to build.
+
+💚 Proud Slytherin.  
+🧱 Active wizard on [#LBAH](https://dagilp.net/mods), the official Minecraft server of the German YouTuber [DaGiLP](https://www.youtube.com/@dagilp).  
+📍 Based near Stuttgart, Southwest Germany — where tradition meets innovation.
+
+---
+
+## 🧰 Tech Stack
+
+| Category               | Tools & Technologies                                                    |
+|------------------------|-------------------------------------------------------------------------|
+| **Languages**          | Java, C++, SQL, Python, HTML, CSS, JavaScript                           |
+| **Platforms**          | Windows, Ubuntu (Server & Client), kaliLinux and Debian                 |
+| **Databases**          | MySQL, SQLite, MariaDB                                                  |
+| **IDEs**               | IntelliJ IDEA, PyCharm, CLion, WebStorm, DataSpell, VSCode, Mbed Studio |
+| **Frameworks & Tools** | Git, Maven, Gradle, Blockbench, the Adobe Suite for visual design       |
+| **Project Management** | Scrum, Kanban, UML, Waterfall                                           |
+| **Documentation**      | Markdown, UML, PDF                                                      |
+
+---
+
+## 🚧 Projects & Contributions
+
+> Most of my original work remains private, but here are a few public projects that reflect my mission:
+
+- 🔹 [**MbedOS Counter**](https://github.com/dercrafter-168/JS1-IT_2509_Interrupt-Polling)  
+  Button-controlled counter with 7-segment display and logging — built for embedded systems.
+
+- 🔹 [**Java Phone GUI**](https://github.com/dercrafter-168/JS1_ITS_JavaPhoneGUI)  
+  Desktop GUI for a Java-based phone using Swing, AWT & JFrame — designed for demo use.
+
+- 🔹 [**DA-Times Website**](https://github.com/dercrafter-168/DA-Times-Website)  
+  Basic website for the DA-Times newspaper (LBAH Minecraft server project) using HTML, CSS & JavaScript.
+  > ⚠️ Still in development — private project
+
+---
+
+## 📊 Languages & Coding Stats
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![wakatime](https://wakatime.com/badge/user/1b5acfeb-7d62-4d9b-8610-26fb210e7ec1.svg)](https://wakatime.com/@1b5acfeb-7d62-4d9b-8610-26fb210e7ec1)
+> New to Wakatime — stats may not reflect full activity yet.
+
+---
+
+## 🧠 Philosophy & Vision
+
+> _“Technology should help humans, not fight against them.  
+> I believe in the power of Artificial Intelligence and human-centric design to make modernization safe, sustainable, and inclusive.”_
+
+My work spans from Minecraft modding and web development to embedded systems and homelab architecture — always with a focus on resilience, and future-proofing.
+
+---
+
+## 📫 Connect With Me
+
+- Twitter: [@dercrafter168](https://twitter.com/dercrafter168)
+- GitHub: [dercrafter-168](https://github.com/dercrafter-168)
+- LinkedIn: [dercrafter-168](https://www.linkedin.com/in/mike-mayer-114009329)
+- Discord: `dercrafter_168`
+
+> 💬 Magic is Might ~Ministry of Magic (1997)
+
+****
